@@ -1,19 +1,15 @@
+<!-- Inspired by https://github.com/JoshuaThadi -->
+
 <img align="center" src="./imgs/top_banner.jpg" alt="Banner" width="100%">
 
 <h2 align="center"> Hello there! 👋 </h2>
 
 ### 💫 About Me:
 
-<table align="center" width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; width: 75%; vertical-align: middle;">
-      🎓 Studying Computer Science and Mathematics in the Universidad Autónoma de Madrid. This is where I will share my projects, and hopefully collaborate on some projects.
-    </td>
-    <td style="border: none; width: 25%; text-align: center;">
-      <img src="./imgs/UAM.png" alt="UAM Logo" style="max-height: 100px; height: auto;">
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="./imgs/UAM.png" alt="UAM Logo" height="100px" align="right" hspace="20">
+  🎓 Studying Computer Science and Mathematics in the Universidad Autónoma de Madrid. This is where I will share my projects, and hopefully collaborate on some projects.
+</p>
 
 <!-- Badges -->
 
@@ -21,10 +17,10 @@
 <a href="https://github.com/jesuscbm" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=jesuscbm&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" alt="Profile Views Badge" />
 </a>
-<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+<a href="https://github.com/jesuscbm?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" src="https://img.shields.io/github/stars/jesuscbm?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
 </a>
-<a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+<a href="https://github.com/jesuscbm?tab=followers" target="_blank">
   <img alt="Followers" src="https://img.shields.io/github/followers/jesuscbm?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
 </a>
 </div>
