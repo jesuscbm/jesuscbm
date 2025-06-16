@@ -1,5 +1,3 @@
-<!-- Inspired by https://github.com/JoshuaThadi -->
-
 <img align="center" src="./imgs/top_banner.jpg" alt="Banner" width="100%">
 
 <h2 align="center"> Hello there! 👋 </h2>
@@ -8,7 +6,7 @@
 
 <p>
   <img src="./imgs/UAM.png" alt="UAM Logo" height="100px" align="right" hspace="20">
-  🎓 Studying Computer Science and Mathematics in the Universidad Autónoma de Madrid. This is where I will share my projects, and hopefully collaborate on some projects.
+  🎓 Studying Computer Science and Mathematics in the Universidad Autónoma de Madrid. This is where I will share my personal learning projects, and hopefully collaborate on some others.
 </p>
 
 <!-- Badges -->
@@ -25,12 +23,14 @@
 </a>
 </div>
 
-<!-- When I have projects, they will go here
 ### 📝 Projects:
 
-* [Project](https://github.com/jesuscbm/project)
+Some interesting repositories of mine:
 
--->
+* [My dotfiles](https://github.com/jesuscbm/dotfiles)
+* [A sorting algorithm visualizer with SDL3](https://github.com/jesuscbm/sorting_visualizer)
+
+There will be more!
 
 ### 🔢 Languages:
 
