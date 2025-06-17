@@ -28,7 +28,9 @@
 Some interesting repositories of mine:
 
 * [My dotfiles](https://github.com/jesuscbm/dotfiles)
-* [A sorting algorithm visualizer with SDL3](https://github.com/jesuscbm/sorting_visualizer)
+* Projects in SDL3: 
+  * [A sorting algorithm visualizer](https://github.com/jesuscbm/sorting_visualizer)
+  * [An asteroids game](https://github.com/jesuscbm/asteroid-like)
 
 There will be more!
 
