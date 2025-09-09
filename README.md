@@ -1,5 +1,3 @@
-<img align="center" src="./imgs/top_banner.jpg" alt="Banner" width="100%">
-
 <h2 align="center"> Hello there! 👋 </h2>
 
 ### 💫 About Me:
@@ -31,6 +29,8 @@ Some interesting repositories of mine:
 * Projects in SDL3: 
   * [A sorting algorithm visualizer](https://github.com/jesuscbm/sorting_visualizer)
   * [An asteroids game](https://github.com/jesuscbm/asteroid-like)
+* [My personal website](https://jesuscbm.github.io)
+* [A dumb platforming game in Lua](https://github.com/jesuscbm/super-palo-bros)
 
 There will be more!
 
@@ -39,26 +39,33 @@ There will be more!
 <p align="center">
 <img src="./imgs/C.png" alt="C" width="50" height="50">
 <img src="./imgs/Java.png" alt="Java" width="50" height="50">
+<img src="./imgs/C++ (CPlusPlus).png" alt="C++" width="50" height="50">
 <img src="./imgs/Lua.png" alt="Lua" width="50" height="50">
 <img src="./imgs/Python.png" alt="Python" width="50" height="50">
 <img src="./imgs/Bash.png" alt="Bash" width="50" height="50">
 <img src="./imgs/HTML5.png" alt="HTML" width="50" height="50">
 <img src="./imgs/CSS3.png" alt="CSS" width="50" height="50">
+<img src="./imgs/JavaScript.png" alt="JS" width="50" height="50">
 </p>
 
-### 🛠️ Tools/Setup:
+### 🛠️ Some tools I am familiar with:
 
 <p align="center">
 <img src="./imgs/Arch Linux.png" alt="Linux" width="50" height="50">
 <img src="./imgs/neovim.png" alt="Neovim" width="50" height="50">
 <img src="./imgs/Vim.png" alt="Vim" width="50" height="50">
+<img src="./imgs/Git.png" alt="Git" width="50" height="50">
+<img src="./imgs/TeX.png" alt="TeX" width="50" height="50">
+<img src="./imgs/SDL.png" alt="SDL" width="50" height="50">
+<img src="./imgs/PostgresSQL.png" alt="Postgres" width="50" height="50">
 </p>
 
 ### 🌱 Interests:
 
 - 👾 C language
-- 📡 Wireless
+- 📡 Networks
 - 📺 Reverse Engineering
+- 🏦 Finance
 
 ### 🎯 Goals:
 
@@ -69,7 +76,7 @@ There will be more!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jesuscbm&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuscbm&layout=compact&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuscbm&layout=compact&theme=tokyonight&exclude_repo=dotfiles" width="300"/>
 </p>
 
 ### 🌐 Socials:
