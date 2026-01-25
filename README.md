@@ -26,7 +26,7 @@
 Selected repositories:
 
 - [**Dos Workshop**](https://github.com/jesuscbm/dos-workshop) - Network traffic analysis and controlled DoS stress testing lab.
-- [**CPPaste**](https://github.com/jesuscbm/cppaste) - Custom HTTP API in C++17, used to implement a PasteBin-like website.
+- [**POSTHaste**](https://github.com/jesuscbm/posthaste) - Custom HTTP API in C++17, used to implement a PasteBin-like website.
 - **C & SDL3 Projects:**
   - [**Sorting Visualizer**](https://github.com/jesuscbm/sorting_visualizer) - Algorithm implementation and visualization using C and SDL3.
   - [**Asteroid-like**](https://github.com/jesuscbm/asteroid-like) - Game physics and rendering in C.
