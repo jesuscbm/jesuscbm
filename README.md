@@ -32,7 +32,7 @@ Selected repositories:
   - [**Asteroid-like**](https://github.com/jesuscbm/asteroid-like) - Game physics and rendering in C.
 - [**Dotfiles**](https://github.com/jesuscbm/dotfiles) - My personal Arch Linux configuration, scripts, and workflow tools.
 - [**Super Palo Bros**](https://github.com/jesuscbm/super-palo-bros) - 2D platformer game developed in Lua.
-- [**Personal Website**](https://jesuscbm.github.io) - Portfolio.
+- [**Personal Website**](https://www.jesusblazquez.eu) - Portfolio.
 
 ### 🔢 Languages:
 
